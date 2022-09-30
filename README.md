@@ -1,7 +1,4 @@
 # MSChallenge
-
-## POSTMAN DOCUMENTATION
-https://web.postman.co/workspace/a7b5e25a-2d08-4523-827b-ad472be89645/documentation/11478360-b60958d2-dced-4046-b41a-298adfdbcf52
  
 ## MICROSOFT ADC CHALLENGE YOUR SKILL
 
